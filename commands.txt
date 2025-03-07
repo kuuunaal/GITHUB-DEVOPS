@@ -36,3 +36,5 @@ git init
     hey this are some used commands 
 
 hey i am writing some more behalf of this o hope you are okay with it 
+
+yeah i got it 
